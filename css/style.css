@@ -24,7 +24,7 @@ html, body {
     left: 0;
     height: 100%;
     width: 100%;
-    background: rgba(32, 83, 52, 0.422);
+    background: linear-gradient( rgba(32, 83, 52, 0.422), rgba(46, 173, 82, 0.322));
     text-align: center;
     padding: 8rem;
 }
